@@ -1,0 +1,50 @@
+﻿id,season,week,seasonType,startTime,isStartTimeTBD,homeTeam,homeConference,awayTeam,awayConference,mediaType,outlet
+401309616,2021,6,regular,2021-10-07T23:30:00.000Z,false,Arkansas State,Sun Belt,Coastal Carolina,Sun Belt,tv,ESPNU
+401301017,2021,6,regular,2021-10-07T23:30:00.000Z,false,Tulane,American Athletic,Houston,American Athletic,tv,ESPN
+401301018,2021,6,regular,2021-10-08T23:00:00.000Z,false,Cincinnati,American Athletic,Temple,American Athletic,tv,ESPN
+401282224,2021,6,regular,2021-10-08T23:00:00.000Z,false,Florida International,Conference USA,Charlotte,Conference USA,tv,CBSSN
+401309868,2021,6,regular,2021-10-09T02:30:00.000Z,false,Arizona State,Pac-12,Stanford,Pac-12,tv,ESPN
+401282656,2021,6,regular,2021-10-09T23:30:00.000Z,false,Virginia Tech,ACC,Notre Dame,FBS Independents,tv,ACCN
+401309564,2021,6,regular,2021-10-09T16:00:00.000Z,false,Toledo,Mid-American,Northern Illinois,Mid-American,tv,CBSSN
+401301021,2021,6,regular,2021-10-09T19:30:00.000Z,false,Navy,American Athletic,SMU,American Athletic,tv,CBSSN
+401310714,2021,6,regular,2021-10-09T23:00:00.000Z,false,Air Force,Mountain West,Wyoming,Mountain West,tv,CBSSN
+401310717,2021,6,regular,2021-10-10T02:30:00.000Z,false,Nevada,Mountain West,New Mexico State,FBS Independents,tv,CBSSN
+401309566,2021,6,regular,2021-10-09T16:00:00.000Z,false,Bowling Green,Mid-American,Akron,Mid-American,tv,CBSSN
+401282758,2021,6,regular,2021-10-09T20:00:00.000Z,false,Iowa,Big Ten,Penn State,Big Ten,tv,FOX
+401287918,2021,6,regular,2021-10-09T16:00:00.000Z,false,Texas,Big 12,Oklahoma,Big 12,tv,ABC
+401282098,2021,6,regular,2021-10-09T16:00:00.000Z,false,Florida,SEC,Vanderbilt,SEC,tv,SECN
+401282769,2021,6,regular,2021-10-09T16:00:00.000Z,false,Ohio State,Big Ten,Maryland,Big Ten,tv,FOX
+401282788,2021,6,regular,2021-10-09T16:00:00.000Z,false,Rutgers,Big Ten,Michigan State,Big Ten,tv,BTN
+401287917,2021,6,regular,2021-10-09T16:00:00.000Z,false,Baylor,Big 12,West Virginia,Big 12,tv,FS1
+401282102,2021,6,regular,2021-10-09T16:00:00.000Z,false,Tennessee,SEC,South Carolina,SEC,tv,ESPN2
+401309566,2021,6,regular,2021-10-09T16:00:00.000Z,false,Bowling Green,Mid-American,Akron,Mid-American,web,ESPN+
+401282652,2021,6,regular,2021-10-09T16:30:00.000Z,false,Duke,ACC,Georgia Tech,ACC,web,ESPN3
+401282226,2021,6,regular,2021-10-09T18:00:00.000Z,false,Marshall,Conference USA,Old Dominion,Conference USA,tv,CBSSN
+401282229,2021,6,regular,2021-10-09T19:30:00.000Z,false,Liberty,FBS Independents,Middle Tennessee,Conference USA,web,ESPN3
+401282718,2021,6,regular,2021-10-09T19:30:00.000Z,false,Illinois,Big Ten,Wisconsin,Big Ten,tv,BTN
+401308836,2021,6,regular,2021-10-09T19:30:00.000Z,false,Eastern Michigan,Mid-American,Miami (OH),Mid-American,web,ESPN+
+401309563,2021,6,regular,2021-10-09T19:30:00.000Z,false,Western Michigan,Mid-American,Ball State,Mid-American,tv,ESPNU
+401309567,2021,6,regular,2021-10-09T19:30:00.000Z,false,Ohio,Mid-American,Central Michigan,Mid-American,web,ESPN+
+401310715,2021,6,regular,2021-10-09T19:30:00.000Z,false,Colorado State,Mountain West,San José State,Mountain West,tv,FS1
+401282101,2021,6,regular,2021-10-09T20:00:00.000Z,false,Missouri,SEC,North Texas,Conference USA,tv,SECN
+401309869,2021,6,regular,2021-10-09T20:00:00.000Z,false,Washington State,Pac-12,Oregon State,Pac-12,tv,PAC12
+401301019,2021,6,regular,2021-10-09T22:00:00.000Z,false,UCF,American Athletic,East Carolina,American Athletic,web,ESPN+
+401282227,2021,6,regular,2021-10-09T23:00:00.000Z,false,Southern Mississippi,Conference USA,UTEP,Conference USA,web,ESPN3
+401287919,2021,6,regular,2021-10-09T23:00:00.000Z,false,Texas Tech,Big 12,TCU,Big 12,tv,ESPN
+401309565,2021,6,regular,2021-10-09T23:00:00.000Z,false,Kent State,Mid-American,Buffalo,Mid-American,tv,ESPNU
+401309617,2021,6,regular,2021-10-09T23:00:00.000Z,false,Troy,Sun Belt,Georgia Southern,Sun Belt,web,ESPN+
+401309619,2021,6,regular,2021-10-09T23:00:00.000Z,false,Texas State,Sun Belt,South Alabama,Sun Belt,web,ESPN+
+401282778,2021,6,regular,2021-10-09T23:30:00.000Z,false,Nebraska,Big Ten,Michigan,Big Ten,tv,ABC
+401282099,2021,6,regular,2021-10-09T23:30:00.000Z,false,Kentucky,SEC,LSU,SEC,tv,SECN
+401282103,2021,6,regular,2021-10-10T00:00:00.000Z,false,Texas A&M,SEC,Alabama,SEC,tv,CBS
+401309618,2021,6,regular,2021-10-10T00:00:00.000Z,false,Louisiana Monroe,Sun Belt,Georgia State,Sun Belt,web,ESPN3
+401309871,2021,6,regular,2021-10-10T00:00:00.000Z,false,USC,Pac-12,Utah,Pac-12,tv,FOX
+401301020,2021,6,regular,2021-10-10T01:00:00.000Z,false,Tulsa,American Athletic,Memphis,American Athletic,tv,ESPN2
+401310716,2021,6,regular,2021-10-10T01:00:00.000Z,false,San Diego State,Mountain West,New Mexico,Mountain West,tv,FS1
+401309870,2021,6,regular,2021-10-10T02:30:00.000Z,false,Arizona,Pac-12,UCLA,Pac-12,tv,ESPN
+401282100,2021,6,regular,2021-10-09T16:00:00.000Z,false,Ole Miss,SEC,Arkansas,SEC,tv,ESPN
+401282653,2021,6,regular,2021-10-09T19:00:00.000Z,false,Louisville,ACC,Virginia,ACC,tv,ACCN
+401309913,2021,6,regular,2021-10-09T19:30:00.000Z,false,BYU,FBS Independents,Boise State,Mountain West,tv,ABC
+401282655,2021,6,regular,2021-10-09T19:30:00.000Z,false,Syracuse,ACC,Wake Forest,ACC,tv,ESPN2
+401282654,2021,6,regular,2021-10-09T19:30:00.000Z,false,North Carolina,ACC,Florida State,ACC,tv,ESPN
+401282097,2021,6,regular,2021-10-09T19:30:00.000Z,false,Auburn,SEC,Georgia,SEC,tv,CBS
